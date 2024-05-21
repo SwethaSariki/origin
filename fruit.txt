@@ -1,1 +1,2 @@
 hello welcome to fruit world
+fruits list : apple,banana,orange
