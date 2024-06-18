@@ -1,2 +1,6 @@
 banana world
+<<<<<<< Updated upstream
 welcome
+=======
+banana file
+>>>>>>> Stashed changes
